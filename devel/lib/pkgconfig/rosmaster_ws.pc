@@ -1,0 +1,8 @@
+prefix=/home/dreampc2/rosmaster_ws/devel
+
+Name: rosmaster_ws
+Description: Description of rosmaster_ws
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+yahboomcar_description
+-DCATKIN_DEVEL_PREFIX=/home/dreampc2/rosmaster_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dreampc2/rosmaster_ws/install -G Unix Makefiles
